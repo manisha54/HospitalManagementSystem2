@@ -1,4 +1,5 @@
 def registrationform():
+
     root = Toplevel()
     root.title('Registration')
     root.geometry('1500x750')
