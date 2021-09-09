@@ -158,6 +158,7 @@ def prescribe1():
         query_label1.pack()
 
 
+
     def delete():
         # Create a databases or connect to one
         conn3 = sqlite3.connect('prescription1.db')
