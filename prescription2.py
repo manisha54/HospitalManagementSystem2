@@ -33,15 +33,12 @@ def prescribe2():
             age_entry.insert(0, records[2])
             gender_entry.insert(0, records[5])
 
-
-
         # retriving data from 3rd database
         conn2 = sqlite3.connect('prescription1.db')
         c2 = conn2.cursor()
         c2.execute("SELECT * FROM prescribeD where oid=" + ID_entry.get())
         record3 = c2.fetchall()
         print(record3)
-
         for records3 in record3:
             diagnosed_entry1.insert(0, records3[0])
             diagnosed_entry2.insert(0, records3[1])
