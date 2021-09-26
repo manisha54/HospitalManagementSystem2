@@ -29,7 +29,7 @@ and the examination they need to perform according to the filled up forms.
 TEAM MEMBERS:
 1. Shreeti Ranjit
 2. Rupika Rasaili
-3. Manisha Kumari Thakur
+3. Manisha Kumari Tharu
 4. Srijan Gurung
 
 FUTURE WORK:-
