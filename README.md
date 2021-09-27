@@ -28,8 +28,14 @@ The major functionalities requirerd for hospital management system are included 
 
 The tools I have used for this project are as shown below and if you don not have such program you can directly download it by clicking on it.
 
--  [Github](https://github.com) for commit and push code
+-  [Github](https://github.com) for verson control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
+
+
+## Link
+The links you can go through:
+- in this case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
+  
           
 
 
@@ -43,18 +49,19 @@ The doctors are notified for check ups that they need to perform. Clicking on th
 and the examination they need to perform according to the filled up forms.
 
 
+
+FUTURE WORK:-
+- Cancellation of appointment.
+- Billing after the check-ups.
+- Different Logins for patient, doctor and manager.
+
+
 TEAM MEMBERS:     
 - Batch: March'30B'
- 
 1. Shreeti Ranjit (Coventry ID : 11781523)
 2. Rupika Rasaili (Coventry ID : 11781604)
 3. Manisha Kumari Tharu (Coventry ID : 11781453)
 4. Srijan Gurung (Coventry ID : 11782254)
 
 
-
-
-FUTURE WORK:-
-- Cancellation of appointment.
-- Billing after the check-ups.
-- Different Logins for patient, doctor and manager.
+>Keep smiling and work harder
