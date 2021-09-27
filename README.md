@@ -44,10 +44,11 @@ and the examination they need to perform according to the filled up forms.
 
 
 TEAM MEMBERS:
-1. Shreeti Ranjit
-2. Rupika Rasaili
-3. Manisha Kumari Tharu
-4. Srijan Gurung
+1. Shreeti Ranjit (Coventry ID :
+2. Rupika Rasaili (Coventry ID :
+3. Manisha Kumari Tharu (Coventry ID : 11781453)
+4. Srijan Gurung (Coventry ID :
+Batch: March'30B'
 
 FUTURE WORK:-
 1. Cancellation of appointment.
