@@ -14,7 +14,7 @@ appointment, list of doctors and managed them properly.
 4.	The available doctors can be seen in just one click.
 5.	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
 6.	The patient can delete their history in one click whenever they want.
-                  ![IMG_20210922_144305](https://user-images.githubusercontent.com/82461960/134908999-457bc14a-51a0-47dd-a5c2-4c2ea7f9f5ad.png)
+          
 
 
 # Patient's Guide
