@@ -31,14 +31,21 @@ The tools I have used for this project are as shown below and if you don not hav
 -  [Github](https://github.com) for verson control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
 
+## How to run this project 
+
+- Install Python (Dont Forget to Tick Add to Path while installing Python)
+- Open Terminal and Execute Following Commands :
+
+
+  pip install pillow
+  
+- Download this project zip folder and extract it
+
 
 ## Link
 The links you can go through:
 - in this case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
-  
-          
-
-
+ 
 ## Patient's Guide
 Users that are registered as patients can book an online appointment for thorough check ups choosing the doctor of their choice among the available doctors in that 
 particular time. Patients can access doctor's information before selecting the doctor responsible for the choosen examination type. The patients are also provided with 
