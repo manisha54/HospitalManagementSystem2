@@ -34,7 +34,7 @@ presciption by the doctors themselves. All you need to do is fill up the require
 The doctors are notified for check ups that they need to perform. Clicking on the pending examinations, doctors can have access to his patient's information 
 and the examination they need to perform according to the filled up forms.
 
-# TNT 
+
 TEAM MEMBERS:
 1. Shreeti Ranjit
 2. Rupika Rasaili
