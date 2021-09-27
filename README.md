@@ -22,6 +22,14 @@ The major functionalities requirerd for hospital management system are included 
 4.	The available doctors can be seen in just one click.
 5.	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
 6.	The patient can delete their history in one click whenever they want.
+
+
+## Tools Used
+
+The tools I have used for this project are as shown below and if you don not have such program you can directly download it by clicking on it.
+
+- pycharm for writting code 
+- Github for commit and push code
           
 
 
