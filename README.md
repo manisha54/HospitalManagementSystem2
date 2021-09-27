@@ -16,12 +16,12 @@ appointment, list of doctors and managed them properly.
 The major functionalities requirerd for hospital management system are included which are depicted below:
 
 
-1.	The customer service will be available for 24 hours.
-2.	Privacy is the key of this application which won’t be leaked.
-3.	This application keeps records of each and every inpatient and outpatient.
-4.	The available doctors can be seen in just one click.
-5.	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
-6.	The patient can delete their history in one click whenever they want.
+-	The customer service will be available for 24 hours.
+-  Privacy is the key of this application which won’t be leaked.
+-	This application keeps records of each and every inpatient and outpatient.
+-	The available doctors can be seen in just one click.
+-	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
+-	The patient can delete their history in one click whenever they want.
 
 
 ## Tools Used
@@ -43,14 +43,18 @@ The doctors are notified for check ups that they need to perform. Clicking on th
 and the examination they need to perform according to the filled up forms.
 
 
-TEAM MEMBERS:
+TEAM MEMBERS:     
+- Batch: March'30B'
+ 
 1. Shreeti Ranjit (Coventry ID :
 2. Rupika Rasaili (Coventry ID :
 3. Manisha Kumari Tharu (Coventry ID : 11781453)
 4. Srijan Gurung (Coventry ID :
-Batch: March'30B'
+
+
+
 
 FUTURE WORK:-
-1. Cancellation of appointment.
-2. Billing after the check-ups.
-3. Different Logins for patient, doctor and manager.
+- Cancellation of appointment.
+- Billing after the check-ups.
+- Different Logins for patient, doctor and manager.
