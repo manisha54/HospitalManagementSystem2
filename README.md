@@ -28,8 +28,8 @@ The major functionalities requirerd for hospital management system are included 
 
 The tools I have used for this project are as shown below and if you don not have such program you can directly download it by clicking on it.
 
-- pycharm for writting code 
-- Github for commit and push code
+-  [Github](https://github.com) for commit and push code
+-  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
           
 
 
