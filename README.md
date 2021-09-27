@@ -1,6 +1,4 @@
 # HOSPITAL MANAGEMENT SYSTEM
-![iconbitmap](https://user-images.githubusercontent.com/82575375/134807685-0721ffa4-4010-4dc5-8155-cc84e2c8e2b2.png)
-![IMG_20210922_144305](https://user-images.githubusercontent.com/82461960/134908999-457bc14a-51a0-47dd-a5c2-4c2ea7f9f5ad.png)
 
 # INTRODUCTION
 This project is GUI based system which is very easy to understand and use and developed with the help of PYTHON with Tkinter. The main purpose of the Hospital 
@@ -16,6 +14,8 @@ appointment, list of doctors and managed them properly.
 4.	The available doctors can be seen in just one click.
 5.	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
 6.	The patient can delete their history in one click whenever they want.
+                  ![IMG_20210922_144305](https://user-images.githubusercontent.com/82461960/134908999-457bc14a-51a0-47dd-a5c2-4c2ea7f9f5ad.png)
+
 
 # Patient's Guide
 Users that are registered as patients can book an online appointment for thorough check ups choosing the doctor of their choice among the available doctors in that 
