@@ -1,5 +1,6 @@
 # HOSPITAL MANAGEMENT SYSTEM
-                            ![iconbitmap](https://user-images.githubusercontent.com/82575375/134807685-0721ffa4-4010-4dc5-8155-cc84e2c8e2b2.png)
+![iconbitmap](https://user-images.githubusercontent.com/82575375/134807685-0721ffa4-4010-4dc5-8155-cc84e2c8e2b2.png)
+![IMG_20210922_144305](https://user-images.githubusercontent.com/82461960/134908999-457bc14a-51a0-47dd-a5c2-4c2ea7f9f5ad.png)
 
 # INTRODUCTION
 This project is GUI based system which is very easy to understand and use and developed with the help of PYTHON with Tkinter. The main purpose of the Hospital 
