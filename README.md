@@ -52,7 +52,7 @@ The links you can go through:
 ## Patient's Guide
 Users that are registered as patients can book an online appointment for thorough check ups choosing the doctor of their choice among the available doctors in that 
 particular time. Patients can access doctor's information before selecting the doctor responsible for the choosen examination type. The patients are also provided with 
-presciption by the doctors themselves. All you need to do is fill up the required forms.
+prescription by the doctors themselves. All you need to do is fill up the required forms.
 
 
 ## Doctor's Guide
@@ -60,10 +60,10 @@ The doctors are notified for check ups that they need to perform. Clicking on th
 and the examination they need to perform according to the filled up forms.
 
 
-FUTURE WORK:-
+## FUTURE WORK:-
 - Cancellation of appointment.
 - Billing after the check-ups.
-- Different Logins for patient, doctor and manager.
+- Different Logins for patient, doctor and administration.
 
 
 TEAM MEMBERS:     
