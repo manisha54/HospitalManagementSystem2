@@ -11,6 +11,7 @@ so feasible that the beginner can also work easily and smoothly. The main focus 
 Hospital Management System also helps to keep the record safely for the long term. Moreover, talking about this project, the user can easily able to see
 appointment, list of doctors and manage them properly. 
 
+
 ## Feature of the project
 
 The major functionalities required for Hospital Management System are included which are depicted below:
@@ -22,7 +23,6 @@ The major functionalities required for Hospital Management System are included w
 -	The available doctors can be seen with a click.
 -	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
 -	The patient can delete their history in one click whenever they want.
-
 
 
 ## Tools Used
