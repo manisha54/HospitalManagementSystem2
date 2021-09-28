@@ -4,7 +4,7 @@
 
 # HOSPITAL MANAGEMENT SYSTEM
 
-## Introducton
+## Introduction
 This project is GUI based system which is very easy to understand and use and developed with the help of PYTHON with Tkinter. The main purpose of the Hospital 
 Management System is to improve patient care, data security of the patient and for the easy and smooth services for our patients. We have made the application 
 so feasible that the beginner can also work easily and smoothly. The main focus of the Hospital Management System is to save the time of our patients. 
@@ -17,9 +17,9 @@ The major functionalities required for Hospital Management System are included w
 
 
 -	The customer service will be available for 24 hours.
--  Privacy is the key of this application which won’t be leaked.
--	This application keeps records of each and every inpatient and outpatient.
--	The available doctors can be seen in just one click.
+-  Privacy is the key of this application.
+-	This application keeps records of each and every in-outpatient.
+-	The available doctors can be seen with a click.
 -	All information and data regarding the patient, doctor and medicine can be seen by any department easily.
 -	The patient can delete their history in one click whenever they want.
 
@@ -29,7 +29,7 @@ The major functionalities required for Hospital Management System are included w
 
 The tools we have used for this project are as shown below and if you do not have such program you can directly download it by clicking on it.
 
--  [Github](https://github.com) for verson control
+-  [Github](https://github.com) for version control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
 
 
@@ -46,7 +46,7 @@ The tools we have used for this project are as shown below and if you do not hav
 
 ## Link
 The links you can go through:
-- In case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
+- In case, if you get any errors or difficulties to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
  
  
 ## Patient's Guide
