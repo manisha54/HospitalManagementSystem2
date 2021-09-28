@@ -66,8 +66,8 @@ and the examination they need to perform according to the filled up forms.
 - Different Logins for patient, doctor and administration.
 
 
-TEAM MEMBERS:     
-- Batch: March'30B'
+## TEAM MEMBERS:     
+- Batch:'30B', BSC(Hons) Computing 
 1. Shreeti Ranjit (Coventry ID : 11781523)
 2. Rupika Rasaili (Coventry ID : 11781604)
 3. Manisha Kumari Tharu (Coventry ID : 11781453)
