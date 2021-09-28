@@ -24,12 +24,14 @@ The major functionalities requirerd for hospital management system are included 
 -	The patient can delete their history in one click whenever they want.
 
 
+
 ## Tools Used
 
 The tools I have used for this project are as shown below and if you don not have such program you can directly download it by clicking on it.
 
 -  [Github](https://github.com) for verson control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
+
 
 ## How to run this project 
 
@@ -46,15 +48,16 @@ The tools I have used for this project are as shown below and if you don not hav
 The links you can go through:
 - in this case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
  
+ 
 ## Patient's Guide
 Users that are registered as patients can book an online appointment for thorough check ups choosing the doctor of their choice among the available doctors in that 
 particular time. Patients can access doctor's information before selecting the doctor responsible for the choosen examination type. The patients are also provided with 
 presciption by the doctors themselves. All you need to do is fill up the required forms.
 
+
 ## Doctor's Guide
 The doctors are notified for check ups that they need to perform. Clicking on the pending examinations, doctors can have access to his patient's information 
 and the examination they need to perform according to the filled up forms.
-
 
 
 FUTURE WORK:-
