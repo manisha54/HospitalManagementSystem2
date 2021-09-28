@@ -13,7 +13,7 @@ appointment, list of doctors and manage them properly.
 
 ## Feature of the project
 
-The major functionalities requirerd for Hospital Management System are included which are depicted below:
+The major functionalities required for Hospital Management System are included which are depicted below:
 
 
 -	The customer service will be available for 24 hours.
@@ -27,7 +27,7 @@ The major functionalities requirerd for Hospital Management System are included 
 
 ## Tools Used
 
-The tools I have used for this project are as shown below and if you don not have such program you can directly download it by clicking on it.
+The tools we have used for this project are as shown below and if you do not have such program you can directly download it by clicking on it.
 
 -  [Github](https://github.com) for verson control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for writting code
@@ -46,7 +46,7 @@ The tools I have used for this project are as shown below and if you don not hav
 
 ## Link
 The links you can go through:
-- in this case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
+- In case, if you get any errors or difficult to run this project, please contact any of this mail (pikarupika7@gmail.com,gurungmotey9@gmail.com,manishachaudhary2057@gmail.com, ranjit.shreeti1@gmail.com)
  
  
 ## Patient's Guide
