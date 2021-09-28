@@ -6,14 +6,14 @@
 
 ## Introducton
 This project is GUI based system which is very easy to understand and use and developed with the help of PYTHON with Tkinter. The main purpose of the Hospital 
-Management System is to improve patient care, data security of the patient and for the easy and smooth services for our patients. We’ve made the application 
-so feasible that the beginner can also work easily and smoothly. And, the main focus of the Hospital Management System is to save the time of our patients. 
+Management System is to improve patient care, data security of the patient and for the easy and smooth services for our patients. We have made the application 
+so feasible that the beginner can also work easily and smoothly. The main focus of the Hospital Management System is to save the time of our patients. 
 Hospital Management System also helps to keep the record safely for the long term. Moreover, talking about this project, the user can easily able to see
-appointment, list of doctors and managed them properly. 
+appointment, list of doctors and manage them properly. 
 
 ## Feature of the project
 
-The major functionalities requirerd for hospital management system are included which are depicted below:
+The major functionalities requirerd for Hospital Management System are included which are depicted below:
 
 
 -	The customer service will be available for 24 hours.
