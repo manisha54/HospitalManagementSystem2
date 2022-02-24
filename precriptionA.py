@@ -403,4 +403,4 @@ def prescribe1():
 
     mainloop()
 
-prescribe1()
+
